@@ -7,7 +7,7 @@
 <a href="index.html">index.html</a>
  </p>
    <p>
-     <a href="index.html">index.html</a>
+     <a href="github.com/notenoughnowjy">my_github</a>
    <p>
 </body>
 </html>
